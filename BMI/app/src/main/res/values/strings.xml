@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">s25373</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <!-- Navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- User input prompts -->
+    <string name="enter_weight">Enter weight (kg)</string>
+    <string name="enter_height">Enter height (cm)</string>
+
+    <!-- Gender options -->
+    <string name="male">Man</string>
+    <string name="female">Female</string>
+
+    <!-- Button text -->
+    <string name="calculate">Calculate</string>
+
+    <!-- BMI Result Label -->
+    <string name="result">BMI Result</string>
+
+    <!-- BMI Categories -->
+    <string name="underweight">Underweight</string>
+    <string name="normal_weight">Normal weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese">Obese</string>
+
+    <!-- Error Messages -->
+    <string name="error_empty_fields">Please enter valid values!</string>
+    <string name="error_invalid_input">Invalid input values!</string>
+    <string name="error_button_not_found">Error: Button not found</string>
+
+    <!-- Additional Error and Validation Messages -->
+    <string name="select_unit">Select a unit.</string>
+    <string name="invalid_values">Invalid values.</string>
+    <string name="invalid_input">Invalid input.</string>
+
+    <!-- Miscellaneous -->
+    <string name="lorem_ipsum">a</string>
+</resources>
