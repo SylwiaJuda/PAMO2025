@@ -1,0 +1,2 @@
+# PAMO
+PAMO studia zadania
