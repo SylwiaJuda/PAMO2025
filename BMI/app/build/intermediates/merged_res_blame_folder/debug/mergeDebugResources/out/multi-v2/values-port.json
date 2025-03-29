@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "pl.pjatk.s25373.app-mergeDebugResources-41:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dummy_bunny\\.gradle\\caches\\8.11.1\\transforms\\c8599dadbbf17653b47846c323a07a66\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

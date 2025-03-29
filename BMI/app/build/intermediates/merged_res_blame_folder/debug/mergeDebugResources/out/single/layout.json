@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "pl.pjatk.s25373.app-mergeDebugResources-42:/layout/activity_splash.xml",
+        "source": "pl.pjatk.s25373.app-main-45:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "pl.pjatk.s25373.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "pl.pjatk.s25373.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "pl.pjatk.s25373.app-mergeDebugResources-42:/layout/content_main.xml",
+        "source": "pl.pjatk.s25373.app-main-45:/layout/content_main.xml"
+    },
+    {
+        "merged": "pl.pjatk.s25373.app-mergeDebugResources-42:/layout/fragment_first.xml",
+        "source": "pl.pjatk.s25373.app-main-45:/layout/fragment_first.xml"
+    }
+]
