@@ -43,12 +43,13 @@
     <!-- How much do you move -->
     <string-array name="activity_levels">
         <item>Siedzący tryb życia</item>
-        <item>Lekka aktywność (1-3 dni w tygodniu)</item>
-        <item>Średnia aktywność (3-5 dni w tygodniu)</item>
-        <item>Duża aktywność (6-7 dni w tygodniu)</item>
+        <item>Lekka aktywność (1–3 dni w tygodniu)</item>
+        <item>Średnia aktywność (3–5 dni w tygodniu)</item>
+        <item>Duża aktywność (6–7 dni w tygodniu)</item>
         <item>Bardzo duża aktywność (sport zawodowy)</item>
     </string-array>
 
     <!-- Miscellaneous -->
     <string name="lorem_ipsum">a</string>
+    <string name="waga_kg">Waga (kg)</string>
 </resources>

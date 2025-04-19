@@ -1,5 +1,6 @@
 package pl.pjatk.s25373;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -37,7 +38,8 @@ public class SecondFragment extends Fragment {
         return binding.getRoot();
     }
 
-    private void calculateCalories() {
+    @SuppressLint("SetTextI18n")
+    void calculateCalories() {
         String ageStr = binding.editTextAge.getText().toString();
         String weightStr = binding.editTextWeight.getText().toString();
         String heightStr = binding.editTextHeight.getText().toString();

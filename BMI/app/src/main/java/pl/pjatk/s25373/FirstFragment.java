@@ -31,7 +31,7 @@ public class FirstFragment extends Fragment {
         return binding.getRoot();
     }
 
-    private void calculateBMI() {
+    void calculateBMI() {
         Log.d(TAG, "Button clicked. Proceeding with BMI calculation...");
 
         // Get the input values from EditText fields
